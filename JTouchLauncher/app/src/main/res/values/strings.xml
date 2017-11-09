@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">玩转情报社</string>
+    <string name="exit_msg">再按一次退出程序</string>
+    <string name="title_msg">提示</string>
+    <string name="address_msg">需要打开您的位置服务信息，请确认。</string>
+    <string name="ok_msg">确认</string>
+    <string name="cancel_msg">退出</string>
+</resources>
